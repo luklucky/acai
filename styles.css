@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://wallpaperaccess.com/full/4136524.png);
+}
+
+header {
+    background-color: #861691;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.ney{
+    text-align: center;
+}
+.peq{
+    width: 150px;
+}
+.tam{
+    text-align: center;
+}
+.cupu{
+    text-align: center;
+}
+.sobre{
+    text-align: center;
+}
+.t{text-align: center;}
+
+.sec{text-align: center;}
